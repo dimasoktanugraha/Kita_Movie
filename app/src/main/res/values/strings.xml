@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kita Movie</string>
+    <string name="movie">Movie</string>
+    <string name="favorite">Favorite</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="search">search</string>
+    <string name="movie_image">movie image</string>
+    <string name="no_data">Empty data</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="populer">Populer</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="review">Review</string>
+    <string name="overview">Overview</string>
+</resources>
